@@ -4,3 +4,6 @@
 ![alt tag](https://github.com/kongnanlive/SideBar/blob/master/test.gif)
 
 
+
+## License
+
